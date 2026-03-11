@@ -1,0 +1,32 @@
+# Core
+groq>=0.9.0
+streamlit>=1.38.0
+python-dotenv>=1.0.0
+
+# LangChain
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langchain-community>=0.0.20
+langchain-huggingface>=0.0.3
+
+# Vector store & embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.7.0
+rank-bm25>=0.2.2
+
+# Document loaders
+pypdf>=3.0.0
+python-docx>=1.1.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Voice I/O
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0
+
+# Export
+reportlab>=4.0.0
+
+# Eval / scoring
+rouge-score>=0.1.2
+nltk>=3.8.1
